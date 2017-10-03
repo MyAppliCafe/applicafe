@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLightColor"
+    android:orientation="vertical"
+    tools:context="com.appdockproject.appdock.Fragments.facebookFragment">
+
+
+    <include layout="@layout/fragment_header" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="24dp">
+
+        <ImageView
+            android:id="@+id/imFacebookphoto"
+            android:layout_width="675dp"
+            android:layout_height="375dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/placehorlder_appdock_round" />
+
+        <Button
+            android:id="@+id/bTakePhoto"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/button_height"
+            android:layout_below="@id/imFacebookphoto"
+            android:layout_marginEnd="20dp"
+            android:layout_toStartOf="@+id/bShareToFacebook"
+            android:background="@color/buttonHighlighted"
+            android:text="@string/facebook_take_a_photo"
+            android:textColor="@color/btnHighlightTxt"
+            android:theme="@style/Base.Widget.AppCompat.ActionButton" />
+
+        <Button
+            android:id="@+id/bShareToFacebook"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/button_height"
+            android:layout_alignEnd="@+id/imFacebookphoto"
+            android:layout_below="@+id/imFacebookphoto"
+            android:background="@color/buttonHighlighted"
+            android:text="@string/facebook_upload_to_facebook"
+            android:textColor="@color/btnHighlightTxt"
+            android:theme="@style/Base.Widget.AppCompat.ActionButton" />
+
+    </RelativeLayout>
+
+</LinearLayout>

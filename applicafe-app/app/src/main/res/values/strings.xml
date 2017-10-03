@@ -1,0 +1,262 @@
+<resources>
+    <string name="app_name">AppliCafé</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Applications mobiles du Sénégal</string>
+    <string name="appTitle">Applications mobiles du Sénégal</string>
+    <string name="and">Hello blank fragment</string>
+    <string name="cross">Hello blank fragment</string>
+    <string name="expat">Hello blank fragment</string>
+    <string name="sakan">Hello blank fragment</string>
+    <string name="Senago">Hello blank fragment</string>
+    <string name="SeneNews">Hello blank fragment</string>
+    <string name="talibi">Hello blank fragment</string>
+
+    <!-- for video page -->
+    <string name="back">Retourner</string>
+
+    <!-- SURVEY QUESTIONS -->
+
+    <!-- Survey titles -->
+    <string name="survey">Enquête sur AppDock</string>
+
+    <!-- 1 -->
+    <string name="age">Age </string>
+    <string name="ageA">Moins de 12 ans</string>
+    <string name="ageB">12-15 ans</string>
+    <string name="ageC">15-18 ans</string>
+    <string name="ageD">18-25 ans</string>
+    <string name="ageE">Plus de 40 ans</string>
+
+    <!-- 2 -->
+    <string name="genre">Genre</string>
+    <string name="genreA">Fille / Femme</string>
+    <string name="genreB">Garçon / Homme</string>
+
+
+    <string name="prof"> Profession </string>
+    <!-- 3 -->
+    <string name="niv">Niveau d’instruction</string>
+    <string name="nivA">Aucun</string>
+    <string name="nivB">Primaire</string>
+    <string name="nivC">Secondaire</string>
+    <string name="nivD">Supérieur</string>
+
+    <!-- 4 -->
+    <string name="occ">Occupation</string>
+    <string name="occA">Elève / Etudiant</string>
+    <string name="occB">Enseignant</string>
+    <string name="occC">Employé (secteur formel)</string>
+    <string name="occD">Secteur informel</string>
+    <string name="occE">Sans emploi</string>
+    <string name="occF">Autre</string>
+
+    <!-- 5 -->
+    <string name="tele">Avez-vous un téléphone</string>
+    <string name="teleA">Simple</string>
+    <string name="teleB">Android</string>
+    <string name="teleC">iPhone</string>
+    <string name="teleD">Windows</string>
+    <string name="teleE">Autre</string>
+
+    <!-- 6 -->
+    <string name="temps">Temps passé dans AppDock</string>
+    <string name="tempsA">Moins de 30 minutes</string>
+    <string name="tempsB">30 - 60 minutes</string>
+    <string name="tempsC">Plus de 60 minutes</string>
+
+    <!-- 7 -->
+    <string name="jaime">J\’aime AppDock</string>
+    <string name="jaimeA">1 - Pas du tout</string>
+    <string name="jaimeB">2 - Un peu</string>
+    <string name="jaimeC">3 - Beaucoup</string>
+    <string name="jaimeD">4 - A la folie</string>
+    <string name="jaimeE">5 - Passionnément</string>
+
+    <!-- 8 -->
+    <string name="app">J’aime AppDock pour</string>
+    <string name="appA">Apprendre à utiliser mon téléphone</string>
+    <string name="appB">Découvrir des applis sénégalaises</string>
+    <string name="appC">Charger mon téléphone </string>
+    <string name="appD">Me connecter à internet </string>
+    <string name="appE">Rencontrer des personnes </string>
+
+
+    <string name="first">C\'est votre primer temps avec l\'AppDock? </string>
+    <string name="time">Combien de temps avez-vous passé? </string>
+    <string name="survey_submit">Envoyer l\'Enquete</string>
+
+
+    <!-- Fragment Button Titles -->
+    <string name="appTitleBtn">APPLICATIONS</string>
+    <string name="devTitleBtn">DEVELOPPEURS</string>
+    <string name="eduTitleBtn">EDUCATION</string>
+    <string name="surveyTitleBtn">ENQUETE</string>
+    <string name="facebookTitleBtn">FACEBOOK</string>
+
+    <!-- Get App Text -->
+    <string name="getAppTitle">Obtenir l\'application </string>
+    <string name="viaWeb">Par lien: </string>
+    <string name="viaText">Par SMS: </string>
+    <string name="getPhoneNum">Votre numéro de téléphone</string>
+    <string name="getPhoneNumBtn">Envoyer par SMS</string>
+
+
+    <!-- Featured Developers -->
+    <string name="dev1">Moussa Diallo\nHamid Mahamat Abdoulaye\nPape Modou Gane Ndiaye</string>
+    <string name="dev1desc">Développeur d’Andando</string>
+    <string name="dev1bio">Developer01 Bio</string>
+
+    <string name="dev2">Ousseynou Khadim Bèye</string>
+    <string name="dev2desc">Développeur de Cross Dakar City</string>
+    <string name="dev2bio">Developer02 Bio</string>
+
+    <string name="dev3">Amadou Sall\nSeydina Hane</string>
+    <string name="dev3desc">Sakanal</string>
+    <string name="dev3bio">Developer03 Bio</string>
+
+    <string name="dev4">Assane Mbengue</string>
+    <string name="dev4desc">Talibi</string>
+    <string name="dev4bio">Developer04 Bio</string>
+
+
+    <!-- Featured Apps-->
+
+    <string name="twilio_account">ACcadae614fef12e05937aae72cfa0f6e2</string>
+    <string name="twilio_auth">9290205651d3ee8eea99ae791c4c61a8</string>
+    <string name="twilio_number">+16465767590</string>
+
+    <string name="twilio_Invalid_number">Entrer un numéro de téléphone valide</string>
+    <string name="twilio_SMS_Sent">SMS envoyé avec succès à : </string>
+    <string name="twilio_SMS_Sending">Envoi du lien pour télécharger l\’application par SMS à : </string>
+    <string name="twilio_SMS_Error">Erreur d\'envoi de SMS à : </string>
+
+    <!-- APP 1 -->
+    <string name="app1">Andando | Transport</string>
+    <string name="app1Desc">Andando est une solution pour faciliter le covoiturage.
+        Que l\’on soit passager ou conducteur, Andando est la solution économe et écolo
+        à ses soucis de déplacements. Andando permet de transporter des personnes aussi
+        bien sur des trajets courts en ville que sur des trajets un peu plus longs de
+        ville en ville.</string>
+    <string name="app1Key">Covoiturage, Réseau social, Communauté, Partage, Ecologie</string>
+    <string name="app1Link">http://bit.ly/appliandando</string>
+    <string name="app1SMSLink">http://bit.ly/appandando</string>
+
+    <!-- APP 2 -->
+    <string name="app2">Cross Dakar City | Jeu</string>
+    <string name="app2Desc">Cross Dakar City est un jeu dont le héros est un enfant des rues
+        de Dakar, un Talibé. Le héros du jeu a décidé de rompre les chaînes de la mendicité
+        et d\’aller à la recherche de ses parents. Son périple consistera à se faufiler entre
+        les voitures à travers Dakar. Le jeu est sur 16 niveaux et est volontairement difficile
+        pour refléter le quotidien de ces enfants.</string>
+    <string name="app2Key">Jeu, Education, Divertissement</string>
+    <string name="app2Link">http://bit.ly/applicrossdakar</string>
+    <string name="app2SMSLink">http://bit.ly/appcrossdakar</string>
+
+    <!-- APP 3 -->
+    <string name="app3">Expat-Dakar | Shopping</string>
+    <string name="app3Desc">Expat-Dakar est la version mobile du site de petites
+        annonces expat-dakar.com. Elle permet de rechercher un emploi ou vendre,
+        acheter ou simplement rechercher biens allant de l\’électroménager à l\’immobilier.
+        Le but est de mettre les utilisateurs en contact avec des milliers de particuliers
+        partout au Sénégal.</string>
+    <string name="app3Key">Shopping, Petites annonces, Achat, Vente, Emploi</string>
+    <string name="app3Link">http://bit.ly/appliexpatdakar</string>
+    <string name="app3SMSLink">http://bit.ly/appexpatdakar</string>
+
+    <!-- APP 4 -->
+    <string name="app4">Sakanal | Productivité</string>
+    <string name="app4Desc">SakanalApp a pour le but d\'aider à réduire et mieux
+        maîtriser ses dépenses quotidiennes liées à l\'électricité. Elle aide à
+        changer ses habitudes pour économiser. Elle permet de calculer sa prochaine
+        facture, simuler sa consommation, et envoyer des conseils pour économiser en
+ suivant des gestes simples.</string>
+    <string name="app4Key">Gestion, Ecologie, Finance, Conseils</string>
+    <string name="app4Link">http://bit.ly/applisakanal</string>
+    <string name="app4SMSLink">http://bit.ly/appsakanal</string>
+
+    <!-- APP 5 -->
+    <string name="app5">Senego | Actualité</string>
+    <string name="app5Desc">Senego est un application d\’information. Elle couvre l\’actualité
+        du Sénégal et de l\’Afrique de l\’Ouest. Elle traite de politique, de sports et de people
+        et possède même un onglet Senego TV consacré à l\'actualité en vidéo.</string>
+    <string name="app5Key">Actualité, Politique, Sport, People, International, TV</string>
+    <string name="app5Link">http://bit.ly/applisenego</string>
+    <string name="app5SMSLink">http://bit.ly/appsenego</string>
+
+    <!-- APP 6 -->
+    <string name="app6">SeneNews | Actualité</string>
+    <string name="app6Desc">Cette application est un concentré de toute l\’actualité
+        et en particulier l\’actualité sénégalaise sur son mobile. La rédaction est basée
+        au Sénégal mais a aussi des branches à l\'étranger pour couvrir l\’actualité
+        internationales et celle des expatriés.</string>
+    <string name="app6Key">Actualité, International, Expatriés, Politique, Sport, People</string>
+    <string name="app6Link">http://bit.ly/applisenenews</string>
+    <string name="app6SMSLink">http://bit.ly/appsenenews</string>
+
+    <!-- APP 7 -->
+    <string name="app7">Talibi  | Transport </string>
+    <string name="app7Desc">Talibi est une application de calcul d\’itinéraire. Elle permet
+        de trouver le meilleur chemin possible en bus pour se rendre à tous ses rendez-vous.
+        Elle peut être utilisée à Dakar, Thiès et Kaolack. L\’application propose aussi des
+        endroits à proximité qui pourraient être intéressants. </string>
+    <string name="app7Key">Transport, Itinéraire, Plan, Tourisme</string>
+    <string name="app7Link">http://bit.ly/applitalibi</string>
+    <string name="app7SMSLink">http://bit.ly/apptalibi</string>
+
+    <!-- APP 8 -->
+    <string name="app8">Teere | Education</string>
+    <string name="app8Desc">Teere propose aux utilisateurs d\’améliorer leurs connaissances
+        sur l\’Afrique. On y trouve: des dictionnaires de langues africaines; des présentations
+        de pays africains et de personnalités qui ont marqué le continent; des citations et
+        proverbes africains; et des quizz pour tester ses connaissances.</string>
+    <string name="app8Key">Afrique, Education, Quizz, Dictionnaire, Citations</string>
+    <string name="app8Link">http://bit.ly/appliteere</string>
+    <string name="app8SMSLink">http://bit.ly/appteere</string>
+
+    <!-- APP 9 -->
+    <string name="app9">Vitfé | Finance</string>
+    <string name="app9Desc">Vitfé Mobile Money est un porte-monnaie électronique permettant
+        d\’effectuer des transactions financières à partir de son téléphone portable en toute
+        sécurité. Elle permet également de payer ses factures et abonnements mais aussi
+        de faire des achats et des transferts, et de suivre les mouvements de fonds en temps
+        réel.</string>
+    <string name="app9Key">Finance, Transfert d\’argent, Achat, Paiement</string>
+    <string name="app9Link">http://bit.ly/applivitfe</string>
+    <string name="app9SMSLink">http:// bit.ly/appvitfe</string>
+
+
+    <!-- Developer Activity -->
+    <string name="devTitle">Développeurs du Sénégal</string>
+
+    <!-- Education Activity -->
+    <string name="eduTitle">Vidéos sur l’utilisation des téléphones</string>
+
+    <string name="video1Title">Qu\'est-ce qu\'Android ?</string>
+    <string name="video2Title">Qu\'est ce qu\'une appli ?</string>
+    <string name="video3Title">Qu\'est-ce que Google Play ?</string>
+    <string name="video4Title">Qu\'est-ce qu\'une adresse email ?</string>
+    <string name="video5Title">Comment créer une adresse email ?</string>
+    <!--<string name="video6Title">Comment installer une appli ?</string> -->
+    <string name="video6Title">Qu\'est-ce qu\'une application ?</string>
+
+    <!-- Facebook Activity -->
+    <string name="yes">Oui</string>
+    <string name="cancel">Annuler</string>
+    <string name="facebookTitle">Partage d\'expérience en photo</string>
+    <string name="facebook_app_id">165226117264719</string>
+    <string name="facebook_page_id">633842056719432</string>
+    <string name="facebook_access_token">EAACWRbQG9U8BAFxbDdbOVA4NZBYwYAcktTFbbMW5OTGJWZAjJAArxT0LZAfrgt9hV68kOByJ0oEJStTZCCYXXNkZB8x2EBLfZBhI6sVWp3H62bZBQKnRscFQRTMrzC3urSWtleLkL9Ebhn5gS5I6gcfag6gRaYV1JxMc40Fqd4AAgZDZD</string>
+    <string name="facebook_access_token_old">EAACWRbQG9U8BAIc2Ad1er5P4300kada4z95r4RMtQNkn70TVZBgVT70m7vIjivvZBRT7rgzQYmZCXlPMKqGu5ZB35yW4IDk36SVcgOF3O6yBuMAbfCklWWUwQmBSO4QZAYyfRdeVVpwITZBZBN1GTX8ffgHjMYCNnP1UZAaWaUXfkgZDZD</string>
+    <string name="facebook_take_a_photo">Prendre Une Photo</string>
+    <string name="facebook_upload_to_facebook">Partager sur Facebook</string>
+    <string name="facebook_no_photo">Vous devez prendre une photo d\'abord!</string>
+    <!--<string name="facebook_sample_text">J\'ai visité #appdock #senegal, un espace d\'interaction entre développeurs et utilisateurs d\'#applis #mobiles</string>-->
+    <string name="facebook_sample_text"></string>
+    <string name="facebook_upload_success">La photo a été téléchargée avec succès</string>
+    <string name="facebook_upload_failure">Un problème est survenu.</string>
+    <string name="facebook_no_internet">Pas de connexion Internet</string>
+    <string name="facebook_uploading">En cours de téléchargement …</string>
+    <string name="facebook_upload_confirm_text">Votre photo va être publiée sur la page facebook d\'Appdock. Voulez-vous continuer?</string>
+</resources>
